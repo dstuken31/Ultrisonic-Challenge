@@ -40,3 +40,23 @@ A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that pick
 * December 10 - Start Printing the car body
 * December 10 -Laser Cut the walls
 
+### Solidworks
+
+
+### Arduino 
+
+* Code for Ultrasonic Sensors 
+* Code for Servos moving foreward
+* Code for Servos turning right 
+* Code for Servos making a sharper turn
+
+### Wiring 
+
+
+
+### Parts and Their Functions 
+
+
+### Materials
+
+
