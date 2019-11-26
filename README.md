@@ -59,4 +59,10 @@ A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that pick
 
 ### Materials
 
-
+* 6AA Battery holder
+* Arduino Uno
+* Mini Breadboard
+* Prototyping Shield
+* HCSR-04 Ultrasonic Sensor
+* AWG22 Wire
+* LEDs?
