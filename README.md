@@ -2,17 +2,16 @@
 
 ## Description 
 
+
+
 ## Schedule
 
 ### Code
 
-November 25- December 6th 
-
-* Finish Planning 
-
-December 6th - December 13th 
-
-* 
+* December 6th - Finish Planning 
+* December 13th - How fast the Servo's should move
+* December 13th - How far away it needs to start turning
+* December 18th - Fritzing Diagram Completed
 
 ### CAD 
 
