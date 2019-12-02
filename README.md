@@ -21,7 +21,7 @@ A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that pick
 1) So you don't have to calculate how far you need to start turning you could have it move very slowly
 2) Instead, if it is even closer you could possibly move one of the servo’s slower and the other faster for a sharper turn 
 
-* 
+* We chose the second option so it is more realistic. Even though the 
 
 ## Schedule
 
@@ -40,8 +40,14 @@ A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that pick
 * December 10 - Start Printing the car body
 * December 10 -Laser Cut the walls
 
+## Parts
+
 ### Solidworks
 
+* Creation of the Shell
+* Creation of the Walls
+* Assembly or the Car
+* Drawing for the Walls
 
 ### Arduino 
 
@@ -52,12 +58,14 @@ A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that pick
 
 ### Wiring 
 
-
-
-### Parts and Their Functions 
-
+* Four Continuous Servos 
+* One Ultrasonic Sensor
+* One Arduino Uno
+* Jumper Cables
 
 ### Materials
+
+#### Code
 
 * 6AA Battery holder
 * Arduino Uno
@@ -65,4 +73,9 @@ A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that pick
 * Prototyping Shield
 * HCSR-04 Ultrasonic Sensor
 * AWG22 Wire
-* LEDs?
+
+#### CAD
+
+* 3D Printed Shell 
+* Laser Cut Acryllic Walls
+* Nuts and Bolts
