@@ -8,6 +8,10 @@ A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that pick
 
 ![Shell of Car](https://lh6.googleusercontent.com/CkJlYhsXQAjbptlFUzJ50KT8anF-K2JSYp-2tQ9huOfhPNiQLyK-rWR6ar6Yb3Al5NS5c6PaDaQunu7UCmQp0g4k_tEnLgoBX30lx4iHeRVAONL4bpSpO4dN7Oa3BBK-Zp9b4MH9)
 
+## Goal 
+
+Our Goal is to create a realistic car in Solidworks.
+
 ## Possible Solutions 
 
 ### CAD 
