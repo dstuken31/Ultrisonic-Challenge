@@ -21,7 +21,7 @@ A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that pick
 1) So you don't have to calculate how far you need to start turning you could have it move very slowly
 2) Instead, if it is even closer you could possibly move one of the servo’s slower and the other faster for a sharper turn 
 
-* We chose the second option so it is more realistic. Even though the 
+* We chose the second option so it is more realistic to a car.  
 
 ## Schedule
 
