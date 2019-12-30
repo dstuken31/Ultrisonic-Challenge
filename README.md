@@ -83,3 +83,7 @@ Our Goal is to create a realistic car in Solidworks.
 * 3D Printed Shell 
 * Laser Cut Acryllic Walls
 * Nuts and Bolts
+
+### Attachments 
+
+* PsuedoCode https://docs.google.com/document/d/1yPundpz824h06et9DYhnXZwOlaTkPOGDrPb8JvVqRH0/edit
