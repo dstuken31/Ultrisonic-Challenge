@@ -1,6 +1,6 @@
 # Ultrisonic-Challenge
 
-## Description Hello
+## Description 
 
 A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that picks up objects in its path and turns to the right in order to avoid collision.
 
@@ -87,3 +87,17 @@ Our Goal is to create a realistic car in Solidworks.
 ### Attachments 
 
 * PsuedoCode https://docs.google.com/document/d/1yPundpz824h06et9DYhnXZwOlaTkPOGDrPb8JvVqRH0/edit
+
+## Changes During Project
+
+### CAD 
+
+
+### Code
+
+# Post Project 
+
+### CAD 
+
+
+### Code
