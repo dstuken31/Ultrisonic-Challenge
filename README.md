@@ -1,6 +1,6 @@
 # Ultrisonic-Challenge
 
-## Description Hello
+## Description
 
 A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that picks up objects in its path and turns to the right in order to avoid collision.
 
