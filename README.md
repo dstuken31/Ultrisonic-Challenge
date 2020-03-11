@@ -1,6 +1,6 @@
 # Ultrasonic-Challenge
 
-## Description
+## Description Hello
 
 A semi-realistic Dodge Challenger SRT  Demon with an ultrasonic sensor that picks up objects in its path and turns to the right in order to avoid collision.
 
@@ -97,7 +97,10 @@ Our Goal is to create a realistic car in Solidworks.
 
 ### CAD 
 *Had to create chamfers on one side in order to cut down the amount of 3d plastic structure
-*
+*Etched the original reference blueprint into both transparent acrylic walls
+*Added a hood scoop to the front of the body
+*At first I forgot to add holes to secure the servos to the walls
+
 ### Code
 
 During the project a few changes had to occur……. 
@@ -120,13 +123,17 @@ Our ultrasonic sensor had some trouble with oddball readings so I added in some 
 
 ### CAD 
 
+*Think through what holes are needed and make sure you have a plan to secure all parts before you start
 
 ### Code
 
 One thing after we finished the project is that we need to have more realistic goals for our project.  We have to factor in time for things to go wrong, as well as give more time so we can realistically get it done.  
 
+![Code Part One](https://raw.githubusercontent.com/dstuken31/Ultrisonic-Challenge/master/Code_Picture_Part_One.PNG)
+
+![Code Part Two](https://raw.githubusercontent.com/dstuken31/Ultrisonic-Challenge/master/Code_Picture_Part_Two.PNG)
+
 ### Overall Lessons Learned 
 
 * Plan realistically but effectively 
 * Communicate with your partner 
-
