@@ -1,4 +1,4 @@
-# Ultrisonic-Challenge
+# Ultrasonic-Challenge
 
 ## Description
 
@@ -38,7 +38,7 @@ Our Goal is to create a realistic car in Solidworks.
 
 ### CAD 
 
-* December 2 - Finish basic shell of the car with compeonents on the inside 
+* December 2 - Finish basic shell of the car with components on the inside 
 * December 3 - Finish holes for assembling the walls to the car body 
 * December 6 - Finish final virtual assembly including everything
 * December 10 - Start Printing the car body
@@ -56,7 +56,7 @@ Our Goal is to create a realistic car in Solidworks.
 ### Arduino 
 
 * Code for Ultrasonic Sensors 
-* Code for Servos moving foreward
+* Code for Servos moving forward
 * Code for Servos turning right 
 * Code for Servos making a sharper turn
 
@@ -81,19 +81,40 @@ Our Goal is to create a realistic car in Solidworks.
 #### CAD
 
 * 3D Printed Shell 
-* Laser Cut Acryllic Walls
+* Laser Cut Acrylic Walls
 * Nuts and Bolts
 
 ### Attachments 
 
 * PsuedoCode https://docs.google.com/document/d/1yPundpz824h06et9DYhnXZwOlaTkPOGDrPb8JvVqRH0/edit
 
+*********************
+
 ## Changes During Project
 
+* We pretty quickly realized the schedule we made was unrealistic, and soon we were way off track compared to our original schedule
+
+
 ### CAD 
-
-
+*Had to create chamfers on one side in order to cut down the amount of 3d plastic structure
+*
 ### Code
+
+During the project a few changes had to occur……. 
+
+#### Flat Wiring 
+
+There wasn’t enough clearance at the top of the car so we had to flat wire our arduino.  We had to rewire 4 times, through processes of trial and error to get everything to fit. 
+
+##### Lessons Learned
+
+* Make room for wiring to save so much pain 
+* If you don't want to have clearance then decide that before the project so you flatwire the first time.
+
+
+#### Using a Mean
+
+Our ultrasonic sensor had some trouble with oddball readings so I added in some code for a mean. I had it add up the last 5 readings and divide it by 5 and then use that number for the actions in the code.
 
 # Post Project 
 
@@ -101,3 +122,11 @@ Our Goal is to create a realistic car in Solidworks.
 
 
 ### Code
+
+One thing after we finished the project is that we need to have more realistic goals for our project.  We have to factor in time for things to go wrong, as well as give more time so we can realistically get it done.  
+
+### Overall Lessons Learned 
+
+* Plan realistically but effectively 
+* Communicate with your partner 
+
